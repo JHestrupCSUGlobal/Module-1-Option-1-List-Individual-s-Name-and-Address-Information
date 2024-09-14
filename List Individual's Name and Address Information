@@ -1,0 +1,15 @@
+package module1;
+
+public class Module1 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("First name: Marge");
+		System.out.println("Last name: Simpson");
+		System.out.println("Street Address: 123 Fake Street");
+		System.out.println("City: Springfield");
+		System.out.println("Zip code: 80085");
+
+	}
+
+}
